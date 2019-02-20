@@ -1,0 +1,6 @@
+{
+    "name": "crypto-api",
+    "version": "0.1.0",
+    "description": "API of the cryptographic blocks used in decentralized authentication credential system",
+    "title": "Decentralized Authentication Crypto Library"
+}
