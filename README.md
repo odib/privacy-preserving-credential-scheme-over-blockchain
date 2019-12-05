@@ -24,3 +24,8 @@ Description on how to launch each service is described in the subdirectory assoc
 ![Protocol](images/sequence.png)
 
 More details about the protocol are provided in the paper.
+
+## Contributors
+
+- Omar DIB | IRT SystemX (https://www.irt-systemx.fr/en/)
+- Clément HUYART | ERCOM (https://www.ercom.fr/)
